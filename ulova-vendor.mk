@@ -13,6 +13,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ulova/proprietary/vendor/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG_c3a.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35521s_HD720p_video_EBBG_c3a.xml \
     vendor/xiaomi/ulova/proprietary/vendor/bin/rova_mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/rova_mm-qcamera-daemon \
     vendor/xiaomi/ulova/proprietary/vendor/bin/ulysse_mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ulysse_mm-qcamera-daemon \
+    vendor/xiaomi/ulova/proprietary/vendor/bin/wcnss_service_daisy:$(TARGET_COPY_OUT_VENDOR)/bin/wcnss_service_daisy \
     vendor/xiaomi/ulova/proprietary/vendor/etc/Uamera/camera_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/Uamera/camera_config.xml \
     vendor/xiaomi/ulova/proprietary/vendor/etc/Uamera/csidtg_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/Uamera/csidtg_camera.xml \
     vendor/xiaomi/ulova/proprietary/vendor/etc/Uamera/ov13855_f13855bd_qtech_d6_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/Uamera/ov13855_f13855bd_qtech_d6_chromatix.xml \
